@@ -10,6 +10,5 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
       <navigator open-type='navigateBack' delta='1' hover-class="navigator-hover">返回</navigator>
-
   </view>
 </view>
